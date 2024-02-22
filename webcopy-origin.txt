@@ -1,0 +1,180 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css
+File Name: C:\Downloaded Web Sites\theuzin.shop\ajax\libs\font-awesome\5.15.2\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\theuzin.shop\ajax\libs\font-awesome\5.15.2\webfonts\fa-brands-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\theuzin.shop\ajax\libs\font-awesome\5.15.2\webfonts\fa-brands-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\theuzin.shop\ajax\libs\font-awesome\5.15.2\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\theuzin.shop\ajax\libs\font-awesome\5.15.2\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\theuzin.shop\ajax\libs\font-awesome\5.15.2\webfonts\fa-brands-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\theuzin.shop\ajax\libs\font-awesome\5.15.2\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\theuzin.shop\ajax\libs\font-awesome\5.15.2\webfonts\fa-regular-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\theuzin.shop\ajax\libs\font-awesome\5.15.2\webfonts\fa-regular-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\theuzin.shop\ajax\libs\font-awesome\5.15.2\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\theuzin.shop\ajax\libs\font-awesome\5.15.2\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\theuzin.shop\ajax\libs\font-awesome\5.15.2\webfonts\fa-regular-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\theuzin.shop\ajax\libs\font-awesome\5.15.2\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\theuzin.shop\ajax\libs\font-awesome\5.15.2\webfonts\fa-solid-900.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\theuzin.shop\ajax\libs\font-awesome\5.15.2\webfonts\fa-solid-900-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\theuzin.shop\ajax\libs\font-awesome\5.15.2\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\theuzin.shop\ajax\libs\font-awesome\5.15.2\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\theuzin.shop\ajax\libs\font-awesome\5.15.2\webfonts\fa-solid-900.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\theuzin.shop\ajax\libs\font-awesome\5.15.2\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css
+File Name: C:\Downloaded Web Sites\theuzin.shop\ionicons\2.0.1\css\ionicons.min.css
+Content Type: text/css
+
+Uri: https://code.ionicframework.com/ionicons/2.0.1/fonts/ionicons.eot?v=2.0.1
+File Name: C:\Downloaded Web Sites\theuzin.shop\ionicons\2.0.1\fonts\ionicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://code.ionicframework.com/ionicons/2.0.1/fonts/ionicons.svg?v=2.0.1
+File Name: C:\Downloaded Web Sites\theuzin.shop\ionicons\2.0.1\fonts\ionicons.svg
+Content Type: image/svg+xml
+
+Uri: https://code.ionicframework.com/ionicons/2.0.1/fonts/ionicons.ttf?v=2.0.1
+File Name: C:\Downloaded Web Sites\theuzin.shop\ionicons\2.0.1\fonts\ionicons.ttf
+Content Type: font/ttf
+
+Uri: https://code.ionicframework.com/ionicons/2.0.1/fonts/ionicons.woff?v=2.0.1
+File Name: C:\Downloaded Web Sites\theuzin.shop\ionicons\2.0.1\fonts\ionicons.woff
+Content Type: font/woff
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap
+File Name: C:\Downloaded Web Sites\theuzin.shop\css2-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins&display=swap
+File Name: C:\Downloaded Web Sites\theuzin.shop\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto&display=swap
+File Name: C:\Downloaded Web Sites\theuzin.shop\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: C:\Downloaded Web Sites\theuzin.shop\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\theuzin.shop\s\poppins\v20\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Me5Q.ttf
+File Name: C:\Downloaded Web Sites\theuzin.shop\s\roboto\v30\KFOmCnqEu92Fr1Me5Q.ttf
+Content Type: font/ttf
+
+Uri: https://theuzin.shop/
+File Name: C:\Downloaded Web Sites\theuzin.shop\index.htm
+Content Type: text/html
+
+Uri: https://theuzin.shop/assets/css/style.css
+File Name: C:\Downloaded Web Sites\theuzin.shop\assets\css\style.css
+Content Type: text/css
+
+Uri: https://theuzin.shop/assets/img/carrinho.png
+File Name: C:\Downloaded Web Sites\theuzin.shop\assets\img\carrinho.png
+Content Type: image/png
+
+Uri: https://theuzin.shop/assets/img/coqueiro.png
+File Name: C:\Downloaded Web Sites\theuzin.shop\assets\img\coqueiro.png
+Content Type: image/png
+
+Uri: https://theuzin.shop/assets/img/logo.gif
+File Name: C:\Downloaded Web Sites\theuzin.shop\assets\img\logo.gif
+Content Type: image/gif
+
+Uri: https://theuzin.shop/assets/img/logs.png
+File Name: C:\Downloaded Web Sites\theuzin.shop\assets\img\logs.png
+Content Type: image/png
+
+Uri: https://theuzin.shop/assets/img/pfp.png
+File Name: C:\Downloaded Web Sites\theuzin.shop\assets\img\pfp.png
+Content Type: image/png
+
+Uri: https://theuzin.shop/assets/js/app.js
+File Name: C:\Downloaded Web Sites\theuzin.shop\assets\js\app.js
+Content Type: application/javascript
+
+Uri: https://theuzin.shop/audio/MC IG.mp3
+File Name: C:\Downloaded Web Sites\theuzin.shop\audio\MC IG.mp3
+Content Type: audio/mpeg
+
+Uri: https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css
+File Name: C:\Downloaded Web Sites\theuzin.shop\boxicons@2.0.9\css\boxicons.min.css
+Content Type: text/css
+
+Uri: https://unpkg.com/boxicons@2.0.9/fonts/boxicons.eot
+File Name: C:\Downloaded Web Sites\theuzin.shop\boxicons@2.0.9\fonts\boxicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://unpkg.com/boxicons@2.0.9/fonts/boxicons.svg?
+File Name: C:\Downloaded Web Sites\theuzin.shop\boxicons@2.0.9\fonts\boxicons.svg
+Content Type: image/svg+xml
+
+Uri: https://unpkg.com/boxicons@2.0.9/fonts/boxicons.ttf
+File Name: C:\Downloaded Web Sites\theuzin.shop\boxicons@2.0.9\fonts\boxicons.ttf
+Content Type: font/ttf
+
+Uri: https://unpkg.com/boxicons@2.0.9/fonts/boxicons.woff
+File Name: C:\Downloaded Web Sites\theuzin.shop\boxicons@2.0.9\fonts\boxicons.woff
+Content Type: font/woff
+
+Uri: https://unpkg.com/boxicons@2.0.9/fonts/boxicons.woff2
+File Name: C:\Downloaded Web Sites\theuzin.shop\boxicons@2.0.9\fonts\boxicons.woff2
+Content Type: font/woff2
+
